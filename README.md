@@ -35,4 +35,16 @@ So its always better to start out as simple as possible, so I first started off 
   
   ## How to run program 
   
+  - The scene is mostly setup, so after you have downloded unity and the mlagents package you can pretty much select the desired scene and train your agent.
+  futher info on how to train  agents can be found at https://github.com/Unity-Technologies/ml-agents. In addition to this please download the assets from the last link mentioned in the references and place it in the same folder as the rest of the files . 
+  
+  
+  
+  ## references 
+  - https://learn.unity.com/project/ml-agents-penguins
+  - https://github.com/Unity-Technologies/ml-agents
+  ### Assets Used :
+   https://assetstore.unity.com/packages/3d/characters/meshtint-free-boximon-fiery-mega-toon-series-153958
+   https://assetstore.unity.com/packages/3d/prototyping-pack-free-94277
+   
   
